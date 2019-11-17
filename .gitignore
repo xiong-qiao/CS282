@@ -2,4 +2,10 @@
 .DS_Store
 
 # Python
-__pycache__
+__pycache__.DS_Store
+
+data_pg/
+data_dqn/
+__pycache__/
+.ipynb_checkpoints/
+env/

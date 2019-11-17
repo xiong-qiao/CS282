@@ -1,0 +1,6 @@
+.DS_Store
+data_pg/
+data_dqn/
+__pycache__/
+.ipynb_checkpoints/
+env/
